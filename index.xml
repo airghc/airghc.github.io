@@ -6,10 +6,37 @@
     <description>Recent content on Airghc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Dec 2017 10:30:33 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2017 20:59:34 +0800</lastBuildDate>
     
 	<atom:link href="https://airghc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://airghc.github.io/posts/test/</link>
+      <pubDate>Thu, 07 Dec 2017 20:59:34 +0800</pubDate>
+      
+      <guid>https://airghc.github.io/posts/test/</guid>
+      <description> 今天是个好日子 </description>
+    </item>
+    
+    <item>
+      <title>Hongchao Guan</title>
+      <link>https://airghc.github.io/posts/about/</link>
+      <pubDate>Thu, 07 Dec 2017 12:32:11 +0800</pubDate>
+      
+      <guid>https://airghc.github.io/posts/about/</guid>
+      <description>hahahahaha</description>
+    </item>
+    
+    <item>
+      <title>Hongchao Guan 关洪超</title>
+      <link>https://airghc.github.io/about/</link>
+      <pubDate>Thu, 07 Dec 2017 12:32:11 +0800</pubDate>
+      
+      <guid>https://airghc.github.io/about/</guid>
+      <description>[Address] Haidian District, Beijing West Tucheng Road on the 10th Beijing University of Posts and Telecommunications [E-mail] airghc@163.com [Mobile] +86 13261702551  SKILLS &amp;amp; INTERESTS  Machine Learning, Deep Learning, Data Mining, NLP, Full-Stack Language: Python, Javascript, Linux shell, C++, C, Java Machine Learning Tools: Tensorflow, Pytorch, Scikit-learn, Keras, Numpy, Pandas Data Mining Platform: Hadoop, Spark, Docker  EDUCATION Beijing University od Posts and Telecommunications Sep.2016 - Present</description>
+    </item>
     
     <item>
       <title>My First Post</title>
