@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Airghc</title>
-    <link>http://airghc.github.io/</link>
+    <link>https://airghc.github.io/</link>
     <description>Recent content on Airghc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Dec 2017 10:30:33 +0800</lastBuildDate>
     
-	<atom:link href="http://airghc.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://airghc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://airghc.github.io/posts/my-first-post/</link>
+      <link>https://airghc.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 07 Dec 2017 10:30:33 +0800</pubDate>
       
-      <guid>http://airghc.github.io/posts/my-first-post/</guid>
+      <guid>https://airghc.github.io/posts/my-first-post/</guid>
       <description> this is my first post </description>
     </item>
     
